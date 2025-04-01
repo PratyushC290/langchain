@@ -1,3 +1,7 @@
-.env
+*.env
 myenv
-.vscode
+*.vscode
+*.DS_Store
+.env/*
+myenv
+.DS_Store/*
