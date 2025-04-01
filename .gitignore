@@ -1,7 +1,4 @@
-*.env
+.env
 myenv
-*.vscode
-*.DS_Store
-.env/*
-myenv
-.DS_Store/*
+.vscode
+.DS_Store
